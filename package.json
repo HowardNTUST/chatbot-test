@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "node js chatbot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "howard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
